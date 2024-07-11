@@ -1,13 +1,11 @@
 const quizData = [
   {
-    question: 'Which of the following is a standard encoding system that is widely used for handling
-multilingual text and symbols around the world as a single character set?',
+    question: 'Which of the following is a standard encoding system that is widely used for handling multilingual text and symbols around the world as a single character set?',
     options: ['ASCII', 'EBCDIC', 'EUC', 'Unicode'],
     answer: 'Unicode',
   },
   {
-    question: 'Which of the following is the unique value that is sequentially assigned to a memory
-location in order to identify the location of instructions or data stored in the main memory
+    question: 'Which of the following is the unique value that is sequentially assigned to a memory location in order to identify the location of instructions or data stored in the main memory
 of a computer?',
     options: ['Address', 'Counter', 'Index', 'Pointer'],
     answer: 'Address',
