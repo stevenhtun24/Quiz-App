@@ -1,8 +1,9 @@
 const quizData = [
   {
-    question: 'What is the capital of France?',
-    options: ['Paris', 'London', 'Berlin', 'Madrid'],
-    answer: 'Paris',
+    question: 'Which of the following is a standard encoding system that is widely used for handling
+multilingual text and symbols around the world as a single character set?',
+    options: ['ASCII', 'EBCDIC', 'EUC', 'Unicode'],
+    answer: 'Unicode',
   },
   {
     question: 'What is the largest planet in our solar system?',
