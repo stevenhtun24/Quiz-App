@@ -6,9 +6,11 @@ multilingual text and symbols around the world as a single character set?',
     answer: 'Unicode',
   },
   {
-    question: 'What is the largest planet in our solar system?',
-    options: ['Mars', 'Saturn', 'Jupiter', 'Neptune'],
-    answer: 'Jupiter',
+    question: 'Which of the following is the unique value that is sequentially assigned to a memory
+location in order to identify the location of instructions or data stored in the main memory
+of a computer?',
+    options: ['Address', 'Counter', 'Index', 'Pointer'],
+    answer: 'Address',
   },
   {
     question: 'Which country won the FIFA World Cup in 2018?',
