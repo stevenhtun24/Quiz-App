@@ -8,9 +8,9 @@ body {
 }
 
 .container {
-  width: 950px;
+  width: 1200px;
   padding: 20px;
-  margin-top: 80px;
+  margin-top: 90px;
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
